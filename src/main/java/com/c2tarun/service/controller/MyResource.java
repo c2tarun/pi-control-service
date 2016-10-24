@@ -1,4 +1,4 @@
-package com.c2tarun.service;
+package com.c2tarun.service.controller;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
